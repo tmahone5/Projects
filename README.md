@@ -1,2 +1,3 @@
 # Projects
-Projects with classmates
+
+Sample of Work done for my clients.
